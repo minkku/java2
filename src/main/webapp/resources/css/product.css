@@ -1,0 +1,44 @@
+@charset "EUC-KR";
+
+:root {
+	text-align:center;
+	width: 40%;
+	margin:auto;
+}
+
+ul,li{
+	text-align: left;
+}
+
+table, th, td {
+  border:1px solid #ccc;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+th, td {
+	text-align: center;
+	padding:10px 20px; 
+}
+
+div {
+	width: 600px;
+	border:none;
+	margin-top: 30px;
+	border-radius: 8px;
+}
+
+#description {
+	border:1px solid #ccc;
+	border-collapse: collapse;
+}
+
+#receipe {
+	border:1px solid #ccc;
+	border-collapse: collapse;	
+}
+
+#package {
+	border:1px solid #ccc;
+	border-collapse: collapse;
+}
